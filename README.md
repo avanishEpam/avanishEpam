@@ -1,6 +1,6 @@
 # Hi, This is Avanish :wave: 
 
-I am Yasar, a computer geek; working as a Senior Software Engineer at [Epam Systems](https://www.epam.com/). I have been working on Salesforce platform for 7+ years. I have worked on various projects with diverse domains. I find solving problems and creating solutions to be the most exciting & rewarding.
+I am Avanish, a computer geek; working as a Senior Software Engineer at [Epam Systems](https://www.epam.com/). I have been working on Salesforce platform for 7+ years. I have worked on various projects with diverse domains. I find solving problems and creating solutions to be the most exciting & rewarding.
 
 
 :mailbox: Reach me out!
